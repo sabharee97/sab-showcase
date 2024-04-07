@@ -46,15 +46,16 @@
     "uniqCompNum": 1,
     "versionPublish": "5.9.17",
     "screenshot": "screenshot.png",
-    "favicon": false,
-    "mbrsiteDomain": "9nehcptsbr",
+    "favicon": "@PROJECT_PATH@/assets/images/coding-128x128.png",
+    "mbrsiteDomain": "ojkri4qimo",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
